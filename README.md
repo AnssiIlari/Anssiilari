@@ -1,6 +1,6 @@
-### Hi there, Welcome 👋
+### Hello and Welcome! 👋
 
-I'm a student at Karelia University of Applied Sciences / UEF, currently working towards my BBA in Business Information Technology. I'm deeply passionate about coding, machine learning, and databases, particularly enjoying projects that allow me to solve complex problems and explore innovative data solutions.
+I'm a student at Karelia University of Applied Sciences, currently working towards my BBA in Business Information Technology. I'm deeply passionate about coding, machine learning, and databases, particularly enjoying projects that allow me to solve complex problems and explore innovative data solutions.
 
 I'm always looking to collaborate on exciting projects or dive into learning opportunities. Let's connect!
 
