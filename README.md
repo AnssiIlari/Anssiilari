@@ -2,6 +2,8 @@
 
 I'm a student at Karelia University of Applied Sciences, currently working towards my BBA in Business Information Technology. I'm deeply passionate about coding, machine learning, and databases, particularly enjoying projects that allow me to solve complex problems and explore innovative data solutions.
 
+Current purpose of everything you see here is to make my learning visible. You wont find top tier innovation here. (YET!)
+
 I'm always looking to collaborate on exciting projects or dive into learning opportunities. Let's connect!
 
 LinkedIn [Anssi Laitinen](https://www.linkedin.com/in/anssi-laitinen-93a963269)
