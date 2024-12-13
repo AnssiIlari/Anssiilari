@@ -1,10 +1,10 @@
 ### Hello and Welcome! 👋
 
-I'm a student at Karelia University of Applied Sciences, currently working towards my BBA in Business Information Technology. I'm interested in for example coding, machine learning, and databases, cyber security, particularly enjoying projects that allow me to solve complex problems and explore innovative data solutions.
+I'm a student at Karelia University of Applied Sciences, currently working towards my BBA in Business Information Technology. I'm interested in coding, machine learning, database and cyber security. Particularly enjoying projects that allow me to solve complex problems and explore innovative data solutions.
 
-Current purpose of everything you see here is to make my learning visible. You wont find top tier innovation here. (YET!)
+This repo is about making my learning visible and party work projects.
 
-I'm always looking to collaborate on exciting projects or dive into learning opportunities. Let's connect!
+I'm always looking to connect!
 
 LinkedIn [Anssi Laitinen](https://www.linkedin.com/in/anssi-laitinen-93a963269)
 <!--
