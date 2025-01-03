@@ -89,6 +89,7 @@ This repository is all about making my learning journey visible while showcasing
 Check out my GitHub stats below:
 
 ![Anssi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnssiIlari&show_icons=true&theme=dark&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnssiIlari&theme=dark)](https://git.io/streak-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnssiIlari&layout=compact&theme=dark)
 
 ---
@@ -96,6 +97,20 @@ Check out my GitHub stats below:
 ✨ Thanks for stopping by! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anssi-laitinen-93a963269/) or check out my [Portfolio](https://anssilaitinen.com/). Happy coding! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnssiIlari&color=blue)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **AnssiIlari/Anssiilari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
