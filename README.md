@@ -1,6 +1,7 @@
 ### Hello and Welcome! 👋
 
-I'm Anssi. This repo is about making my learning visible.
+I'm Anssi, an aspiring **full-stack developer** and **DevOps enthusiast** passionate about creating scalable and secure applications.  
+This repository is all about making my learning journey visible while showcasing my technical skills and projects.
 
 
 ### 🚀 My Tech Stack
@@ -55,7 +56,7 @@ I'm Anssi. This repo is about making my learning visible.
 ## 🌱 I'm currently learning
 
 - Deepening my knowledge in **React**.
-- Practising **Server management** and **Linux**.
+- Exploring **Linux server management** and tools like **Ansible** for automation.
 
 ---
 
@@ -67,10 +68,14 @@ I'm Anssi. This repo is about making my learning visible.
 
 ## 📊 GitHub Stats
 
+Check out my GitHub stats below:
+
 ![Anssi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnssiIlari&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnssiIlari&layout=compact&theme=dark)
 
 ---
+
+✨ Thanks for stopping by! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anssi-laitinen-93a963269/) or check out my [Portfolio](https://anssilaitinen.com/). Happy coding! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnssiIlari&color=blue)
 <!--
