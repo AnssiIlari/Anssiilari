@@ -89,7 +89,7 @@ This repository is all about making my learning journey visible while showcasing
 Check out my GitHub stats below:
 
 ![Anssi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnssiIlari&show_icons=true&theme=dark&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnssiIlari&theme=dark)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=AnssiIlari&theme=dark)](https://git.io/streak-stats)-->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnssiIlari&layout=compact&theme=dark)
 
 ---
